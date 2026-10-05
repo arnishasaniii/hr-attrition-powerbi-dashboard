@@ -136,7 +136,7 @@ Dark amber corporate theme — different from standard Power BI defaults
 
 Tools
 
-Power BI, DAX, Python (pandas — data cleaning and feature engineering)
+Power BI, DAX
 
 Dataset: IBM HR Analytics Employee Attrition — Kaggle
 
